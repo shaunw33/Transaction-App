@@ -1,4 +1,4 @@
-# Final Project (Shaun Wilkerson)
+# Transaction App (Shaun Wilkerson)
 
 For the online shopping application, users will be able to add 
 clothing items to their shopping cart
